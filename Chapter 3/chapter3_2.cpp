@@ -18,7 +18,7 @@ bool isEven(int number)
 }
 
 
-int main()
+/*int main()
 {
 	std::cout << "Enter an integer: ";
 	    int x;
@@ -33,5 +33,5 @@ int main()
 
 
 }
-
+*/
 
